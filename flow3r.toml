@@ -1,0 +1,12 @@
+[app]
+name = "Diashow"
+menu = "Badge"
+
+[entry]
+class = "Diashow"
+
+[metadata]
+author = "Yonggan"
+license = "AGPL"
+url = ""
+

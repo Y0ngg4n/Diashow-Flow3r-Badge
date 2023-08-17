@@ -1,0 +1,20 @@
+[
+  {
+    "fileName" : "Digitalcourage.png",
+    "color": "#FFCC00",
+    "ySize": 42,
+    "backgroundColor": "#FFFFFF"
+  },
+  {
+    "fileName": "Fediverse.png",
+    "color": "#63FE00",
+    "ySize": 240,
+    "backgroundColor": "#FFFFFF"
+  },
+  {
+    "fileName": "Matrix.png",
+    "color": "#FFFFFF",
+    "ySize": 102,
+    "backgroundColor": "#000000"
+  }
+]
